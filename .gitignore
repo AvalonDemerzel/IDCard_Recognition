@@ -1,0 +1,10 @@
+data/crnn_dataset/images
+data/crnn_dataset/val_images
+data/crnn_dataset/data.txt
+data/ctpn/train
+data/ctpn/train_gt
+data/crnn_dataset/validation.txt
+data/ctpn/logs
+data/ctpn/images
+.idea
+**__pycache__
